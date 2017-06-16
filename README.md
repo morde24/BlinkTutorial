@@ -1,6 +1,8 @@
 # BlinkTutorial
 
-Assignment 1:   Create an Arduino program the turns an LED linked to Pin 13 on and off
+Assignment 1:   
+
+           In a New branch, create an Arduino program the turns an LED linked to Pin 13 on and off
 
 Checklist:
 
