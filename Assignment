@@ -1,0 +1,6 @@
+//please use this file to create your own sample blink code
+// this code should simply turn an LED linked to pin 13 ON and OFF with a delay of 100ms
+// Checklist:
+// Creat an integer named LED
+// give the pin the LED is set to a mode in setup
+// turn the LED ON and OFF in loop with a 100ms delay between turning on and off
