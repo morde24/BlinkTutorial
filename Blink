@@ -1,0 +1,15 @@
+int LED = 13;
+
+void Setup(){
+  pinMode (13, OUTPUT);
+  serial.Begin(9600);
+}
+
+void Loop(){
+  digitalWrite (13, HIGH);
+  serial.Println (LED is ON);
+  delay(100);
+  digitalWrite (13, LOW);
+  serial.Println (LED is OFF);
+  delay(100);
+}
